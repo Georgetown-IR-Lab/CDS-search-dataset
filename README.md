@@ -85,21 +85,21 @@ McGraw-Hill Companies. Medical Publishing Division. *"Clinical Vignettes for the
 Reteguiz, Jo-Ann. *"Physical Diagnosis: PreTest Self-assessment and Review. McGraw-Hill"*, Medical Pub. Division, 2004.
 
 
-+ 3
-+ 4
-+ 16
-+ 46
-+ 49
-+ 90
-+ 95
-+ 98
-+ 101
-+ 111
-+ 115
-+ 132
-+ 200
-+ 202
-+ 205
-+ 206
-+ 240
++ q. 3
++ q. 4
++ q. 16
++ q. 46
++ q. 49
++ q. 90
++ q. 95
++ q. 98
++ q. 101
++ q. 111
++ q. 115
++ q. 132
++ q. 200
++ q. 202
++ q. 205
++ q. 206
++ q. 240
 
