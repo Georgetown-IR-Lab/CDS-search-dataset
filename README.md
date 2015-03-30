@@ -82,8 +82,7 @@ McGraw-Hill Companies. Medical Publishing Division. *"Clinical Vignettes for the
 
 ## Tuning questions
 
-Reteguiz, Jo-Ann. *"Physical Diagnosis: PreTest Self-assessment and Review. McGraw-Hill"*, Medical Pub. Division, 2004.
-
+Bernstein, Lisa. *"Physical Diagnosis PreTest Self Assessment and Review, Seventh Edition"*, McGraw-Hill. 2010.
 
 + q. 3
 + q. 4
